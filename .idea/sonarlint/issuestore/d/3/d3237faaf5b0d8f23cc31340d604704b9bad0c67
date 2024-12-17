@@ -1,0 +1,43 @@
+
+_
+java:S1192e"IDefine a constant instead of duplicating this literal "pageSize" 4 times.(‹ô»…
+q
+java:S1192—"ZDefine a constant instead of duplicating this literal "something wrong on server" 4 times.(Þ´…°
+q
+java:S1192‰"ZDefine a constant instead of duplicating this literal "Something wrong on server" 3 times.(£¶œ®
+^
+java:S1192h"HDefine a constant instead of duplicating this literal "isFirst" 4 times.(×§ø›
+b
+java:S1192d"GDefine a constant instead of duplicating this literal "pageNo" 4 times.(‰”Û›ÿÿÿÿÿ
+]
+java:S1192i"GDefine a constant instead of duplicating this literal "isLast" 4 times.(†ÝËô
+d
+java:S1192f"NDefine a constant instead of duplicating this literal "totalElements" 4 times.(á¤üð
+b
+java:S1192r"LDefine a constant instead of duplicating this literal "default.jpg" 3 times.(ŸåÖô
+`
+java:S1192‰"IDefine a constant instead of duplicating this literal "succMsg" 11 times.(…š£Í
+_
+java:S1192x"JDefine a constant instead of duplicating this literal "errorMsg" 15 times.(Æ’”
+f
+java:S1192g"KDefine a constant instead of duplicating this literal "totalPages" 4 times.(ÂÂøßÿÿÿÿÿ
+b
+java:S1192"KDefine a constant instead of duplicating this literal "static/img" 4 times.(âÒŸ±
+C
+java:S5411w"(Use a primitive boolean expression here.(‹¨ãßýÿÿÿÿ
+?
+java:S5411”"(Use a primitive boolean expression here.(ÝñÚÜ
+?
+java:S5411†"(Use a primitive boolean expression here.(ë¢Ô÷
+>
+java:S5411¶"(Use a primitive boolean expression here.(æ°—6
+^
+java:S2259„"BA "NullPointerException" could be thrown; "file" is nullable here.(Ï×ˆ§øÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(¼Ã¤
+W	java:S125†"<This block of commented-out lines of code should be removed.(ƒðöíýÿÿÿÿ
+W	java:S125»"<This block of commented-out lines of code should be removed.(ƒðöíýÿÿÿÿ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(ƒðöíýÿÿÿÿ
+R	java:S125é"<This block of commented-out lines of code should be removed.(±ÔêÎ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(ý•Š¼üÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ý•Š¼üÿÿÿÿ
+W	java:S125©"<This block of commented-out lines of code should be removed.(ƒðöíýÿÿÿÿ

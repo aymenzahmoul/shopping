@@ -1,0 +1,20 @@
+
+d
+java:S1192W"IDefine a constant instead of duplicating this literal "products" 3 times.(ÁÏÑÊøÿÿÿÿ
+d
+java:S1192ƒ"HDefine a constant instead of duplicating this literal "product" 3 times.(›Ä“²øÿÿÿÿ
+_
+java:S1192Ù"HDefine a constant instead of duplicating this literal "message" 3 times.(§¥‹œ
+`
+java:S1192”"IDefine a constant instead of duplicating this literal "errorMsg" 5 times.(ôûòı
+?
+java:S5411“"(Use a primitive boolean expression here.(¬¨¸¥
+?
+java:S5411È"(Use a primitive boolean expression here.(İ¡…İ
+Q	java:S125o"<This block of commented-out lines of code should be removed.(—ˆÅ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(ƒğöíıÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(’²íÌüÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ
